@@ -1,3 +1,13 @@
+/*
+As pessoas devem ter o poder de alterar:
+  Cor de fundo da tela;
+  Cor do texto;
+  Tamanho da fonte;
+  Espaçamento entre as linhas do texto;
+  Tipo da fonte ( Font family ).
+Essas preferências devem ser salvas de forma que, ao retornar à página, as preferências que foram previamente configuradas possam ser aplicadas na tela.
+*/
+
 // Constants
 const content = document.querySelector('.article');
 const btnColorBg = document.querySelectorAll('.btn-color-bg');
@@ -51,37 +61,20 @@ initialize();
 // Events
 btnColorBg.forEach((button) => button.addEventListener('click', () => {
   setBackgroundColor(button.innerHTML);
-}))
+}));
 
 btnColorTxt.forEach((button) => button.addEventListener('click', () => {
   setTextColor(button.innerHTML);
-}))
+}));
 
 fontSize.forEach((button) => button.addEventListener('click', () => {
   setFontSize(button.innerHTML);
-}))
+}));
 
 lineSpacing.forEach((button) => button.addEventListener('click', () => {
   setLineSpacing(button.innerHTML);
-}))
+}));
 
 fontFamily.forEach((button) => button.addEventListener('click', () => {
   setFontFamily(button.innerHTML);
-}))
-
-// Local Storage
-localStorage.setItem
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}));
