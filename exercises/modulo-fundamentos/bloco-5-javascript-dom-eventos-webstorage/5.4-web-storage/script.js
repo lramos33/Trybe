@@ -1,35 +1,76 @@
-// Variáveis e constantes
-let content = document.querySelector(".article")
+// Constants
+const content = document.querySelector('.article');
+const btnColorBg = document.querySelectorAll('.btn-color-bg');
+const btnColorTxt = document.querySelectorAll('.btn-color-txt');
+const fontSize = document.querySelectorAll('.font-size');
+const lineSpacing = document.querySelectorAll('.line-spacing');
+const fontFamily = document.querySelectorAll('.font-family')
 
-// Funções
+const storageBackgroundColor = localStorage.getItem('backgroundColor');
+const storageTextColor = localStorage.getItem('textColor');
+const storageFontSize = localStorage.getItem('fontSize');
+const storageLineSpacing = localStorage.getItem('lineSpacing');
+const storageFontFamily = localStorage.getItem('fontFamily');
+
+// Functions
 function setBackgroundColor(color) {
-  content.style.backgroundColor = color
+  content.style.backgroundColor = color;
+  localStorage.setItem('backgroundColor', color);
 }
-setBackgroundColor('Lightgray')
 
 function setTextColor(color) {
-  content.style.color = color
+  content.style.color = color;
+  localStorage.setItem('textColor', color);
 }
-setTextColor('black')
 
 function setFontSize(size) {
-  content.style.fontSize = size
+  content.style.fontSize = size;
+  localStorage.setItem('fontSize', size);
 }
-setFontSize('16px')
 
 function setLineSpacing(space) {
-  content.style.lineHeight = space
+  content.style.lineHeight = space;
+  localStorage.setItem('lineSpacing', space);
 }
-setLineSpacing('1.2')
 
-function setFontFamily(fontFamily) {
-  content.style.fontFamily = fontFamily
+function setFontFamily(font) {
+  content.style.fontFamily = font;
+  localStorage.setItem('fontFamily', font);
 }
-setFontFamily('Arial')
 
+// Default page
+function initialize() {
+  setBackgroundColor(storageBackgroundColor);
+  setTextColor(storageTextColor);
+  setFontSize(storageFontSize);
+  setLineSpacing(storageLineSpacing);
+  setFontFamily(storageFontFamily);
+}
+initialize();
 
+// Events
+btnColorBg.forEach((button) => button.addEventListener('click', () => {
+  setBackgroundColor(button.innerHTML);
+}))
 
+btnColorTxt.forEach((button) => button.addEventListener('click', () => {
+  setTextColor(button.innerHTML);
+}))
 
+fontSize.forEach((button) => button.addEventListener('click', () => {
+  setFontSize(button.innerHTML);
+}))
+
+lineSpacing.forEach((button) => button.addEventListener('click', () => {
+  setLineSpacing(button.innerHTML);
+}))
+
+fontFamily.forEach((button) => button.addEventListener('click', () => {
+  setFontFamily(button.innerHTML);
+}))
+
+// Local Storage
+localStorage.setItem
 
 
 
