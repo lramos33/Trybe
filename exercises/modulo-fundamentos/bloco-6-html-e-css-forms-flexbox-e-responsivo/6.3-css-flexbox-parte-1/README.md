@@ -6,11 +6,9 @@ Crie um fork desse projeto e para isso siga esse [tutorial de como realizar um f
 
 Após feito o fork, clone o repositório criado para o seu computador.
 
-Vá para a branch master do seu projeto e execute o comando:
+Vá para a branch master do seu projeto e execute o comando `git branch`.
 
-git branch
-
-Mude para a branch tech-gallery com o comando git checkout -b tech-gallery. É nessa branch que você realizará a solução para o exercício.
+Mude para a branch tech-gallery com o comando `git checkout -b tech-gallery`. É nessa branch que você realizará a solução para o exercício.
 
 Observe o que deve ser feito nas instruções.
 
