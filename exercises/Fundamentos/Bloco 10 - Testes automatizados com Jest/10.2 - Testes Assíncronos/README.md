@@ -1,19 +1,134 @@
 ## Agora a prática
-1. Escreva um teste que verifique a chamada do callback de uma função uppercase , que transforma as letras de uma palavra em letras maiúsculas. Lembre-se de ter cuidado com os falso-positivos em testes assíncronos.
+1. Escreva um teste que verifique a chamada do _callback_ de uma função `uppercase` , que transforma as letras de uma palavra em letras maiúsculas. Lembre-se de ter cuidado com os falso-positivos em testes assíncronos.
+```js
+const uppercase = (str, callback) => {
+  setTimeout(() => {
+    callback(str.toUpperCase());
+  }, 500);
+};
+```
 
-_**Confira o código fornecido para os exercícios 2 e 3:**_
+_**Código base para os exercícios 2 e 3:**_
 
-2. Utilizando a sintaxe de Promise, faça um teste que verifique o resultado da função getUserName para o caso em que o usuário é encontrado, e também um teste para o caso em que o usuário não é encontrado.
-    - Dica: Veja os dados falsos utilizados no banco de dados, disponíveis na variável users, para saber quais IDs existem.
+O código a seguir simula uma chamada ao banco de dados para buscar usuários. O resultado dessa busca é uma _Promise_, que é utilizada pelo método `getUserName`.
+```js
+const users = [
+  { id: 1, name: 'Mark' },
+  { id: 2, name: 'Paul' },
+];
 
-3. Reescreva o teste do exercício anterior, desta vez utilizando a sintaxe de async/await .
-    - Dica: Utilize o try/catch para o caso de erro.
+const findUserById = (id) => new Promise((resolve, reject) => {
+  const result = users.find((user) => user.id === id);
 
-4. O código abaixo busca no GitHub de um usuário, de acordo com a URL, seus repositórios, e retorna uma lista como resultado. Dada a URL 'https://api.github.com/orgs/tryber/repos', faça um teste que verifique que os repositórios 'sd-01-week4-5-project-todo-list' e 'sd-01-week4-5-project-meme-generator' se encontram nessa lista.
+  if (result) {
+    return resolve(result);
+  }
 
-5. Para este exercício, tente adivinhar a saída dos console.log dos testes fornecidos sem executá-los, e veja se compreendeu bem o funcionamento do beforeEach e do afterEach. Após escrever o que imagina que será o resultado, execute os testes e veja se acertou.
+  return reject(new Error(`User with ${id} not found.`));
+});
 
-6. Nesse exercício, você irá criar funções parecidas com código o código fornecido - o mesmo que foi usado como exemplo sobre os testes de promise. Use-o como base para os exercícios a seguir:
-    1. Adicione uma funcionalidade para buscar pelo nome do animal - crie uma função que deverá passar no teste abaixo.
-        - Dica: use o código do exemplo dado para criar uma nova função, analise os testes antes de iniciar.
-    2. Adicione uma nova funcionalidade para buscar pela idade dos animais. O retorno deve ser um array de objetos, mas, caso não ache nenhum, retorne uma mensagem de erro. Escreva tanto a função como o seu teste.
+const getUserName = (userId) => findUserById(userId).then((user) => user.name);
+```
+
+2. Utilizando a sintaxe de _Promise_, faça um teste que verifique o resultado da função `getUserName` para o caso em que o usuário é encontrado, e também um teste para o caso em que o usuário não é encontrado.
+    - **_Dica:_** Veja os dados falsos utilizados no banco de dados, disponíveis na variável `users`, para saber quais IDs existem.
+
+3. Reescreva o teste do exercício anterior, desta vez utilizando a sintaxe de _async/await_.
+    - **_Dica:_** Utilize o _try/catch_ para o caso de erro.
+
+4. O código abaixo busca no _GitHub_ de um usuário, de acordo com a URL, seus repositórios, e retorna uma lista como resultado. Dada a URL `'https://api.github.com/orgs/tryber/repos'`, faça um teste que verifique que os repositórios `'sd-01-week4-5-project-todo-list'` e `'sd-01-week4-5-project-meme-generator'` se encontram nessa lista.
+```js
+const fetch = require('node-fetch');
+
+const getRepos = (url) => {
+  return fetch(url)
+    .then(response => response.json())
+    .then((data) => {
+      return data.map((repo) => repo.name);
+    });
+};
+```
+
+5. Para este exercício, tente adivinhar a saída dos `console.log` dos testes fornecidos sem executá-los, e veja se compreendeu bem o funcionamento do `beforeEach` e do `afterEach`. 
+```js
+beforeEach(() => console.log('1 - beforeEach'));
+afterEach(() => console.log('1 - afterEach'));
+
+test('', () => console.log('1 - test'));
+
+describe('Scoped / Nested block', () => {
+  beforeEach(() => console.log('2 - beforeEach'));
+  afterEach(() => console.log('2 - afterEach'));
+
+  test('', () => console.log('2 - test'));
+});
+```
+
+Após escrever o que imagina que será o resultado, execute os testes e veja se acertou.
+
+6. Nesse exercício, você irá criar funções parecidas com código o código abaixo - o mesmo que foi usado como exemplo sobre os testes de promise.
+```js
+const Animals = [
+  { name: 'Dorminhoco', age: 1, type: 'Dog' },
+  { name: 'Soneca', age: 2, type: 'Dog' },
+  { name: 'Preguiça', age: 5, type: 'Cat' },
+];
+
+const findAnimalsByType = (type) => (
+  new Promise((resolve, reject) => {
+    setTimeout(() => {
+      const arrayAnimals = Animals.filter((animal) => animal.type === type);
+      if (arrayAnimals.length !== 0) {
+        return resolve(arrayAnimals);
+      };
+
+      return reject({ error: 'Não possui esse tipo de animal.' });
+    }, 100);
+  })
+);
+
+const getListAnimals = (type) => (
+  findAnimalsByType(type).then(list => list)
+);
+```
+
+Use-o como base para os exercícios a seguir:
+1. Adicione uma funcionalidade para buscar pelo nome do animal - crie uma função que deverá passar no teste abaixo.
+    - **_Dica:_** use o código do exemplo dado para criar uma nova função, analise os testes antes de iniciar.
+```js
+const Animals = [
+  { name: 'Dorminhoco', age: 1, type: 'Dog' },
+  { name: 'Soneca', age: 2, type: 'Dog' },
+  { name: 'Preguiça', age: 5, type: 'Cat' },
+];
+
+const findAnimalByName = (name) => {
+  // Adicione o código aqui.
+};
+
+const getAnimal = (name) => {
+  // Adicione o código aqui.
+};
+// ---------------------
+
+describe('Testando promise - findAnimalByName', () => {
+  describe('Quando existe o animal com o nome procurado', () => {
+    test('Retorne o objeto do animal', () => {
+      expect.assertions(1);
+      return getAnimal('Dorminhoco').then(animal => {
+        expect(animal).toEqual({ name: 'Dorminhoco', age: 1, type: 'Dog' });
+      });
+    });
+  });
+
+  describe('Quando não existe o animal com o nome procurado', () => {
+    test('Retorna um erro', () => {
+      expect.assertions(1);
+      return getAnimal('Bob').catch(error =>
+        expect(error).toEqual('Nenhum animal com esse nome!')
+      );
+    });
+  });
+});
+```
+2. Adicione uma nova funcionalidade para buscar pela idade dos animais. O retorno deve ser um array de objetos, mas, caso não ache nenhum, retorne uma mensagem de erro. Escreva tanto a função como o seu teste.
