@@ -1,4 +1,3 @@
-// Exercício 1
 const testingScope = (escopo) => {
   if (escopo === true) {
     let ifScope = 'Não devo ser utilizada fora do meu escopo (if)';

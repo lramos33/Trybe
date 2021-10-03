@@ -1,4 +1,3 @@
-// Exercício 3
 const factorialNumber = (n) => {
   if (n < 0 ){
     return `Não é possível calcular o fatorial`;

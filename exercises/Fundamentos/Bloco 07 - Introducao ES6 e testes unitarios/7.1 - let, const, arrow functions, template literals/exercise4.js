@@ -1,4 +1,3 @@
-// Exercício 4
 const longestWord = (string) => {
   const eachWord = string.split(' ');
   let result = '';
