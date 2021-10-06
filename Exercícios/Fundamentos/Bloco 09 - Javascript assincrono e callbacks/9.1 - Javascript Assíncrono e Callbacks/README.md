@@ -148,3 +148,73 @@ sendMarsTemperature(temperatureInFahrenheit, handleError);
 // imprime "Hi there! Curiosity here. Right now is 53ºC at Mars", por exemplo, ou "Error getting temperature: Robot is busy"
 sendMarsTemperature(greet, handleError);
 ```
+
+7. Escreva um teste que verifique a chamada do _callback_ de uma função `uppercase` , que transforma as letras de uma palavra em letras maiúsculas. Lembre-se de ter cuidado com os falso-positivos em testes assíncronos.
+
+```js
+const uppercase = (str, callback) => {
+  setTimeout(() => {
+    callback(str.toUpperCase());
+  }, 500);
+};
+```
+
+8. Para o próximo exercício, você vai sentir na pele o primeiro dia de um treinador Pokémon! No laboratório do Professor Carvalho, você é informado de que existem três pokémons disponíveis: Bulbasaur, Charmander e Squirtle. Complete a chamada da função `getPokemonDetails` de modo que ela imprima no console os detalhes do pokémon que você escolheu. PS: é possível que o sistema do Professor Carvalho apresente erros caso o pokémon não exista no banco de dados, então não se esqueça de tratá-los também, combinado?
+
+```js
+const pokemons = [
+  {
+    name: 'Bulbasaur',
+    type: 'Grass',
+    ability: 'Razor Leaf',
+  },
+  {
+    name: 'Charmander',
+    type: 'Fire',
+    ability: 'Ember',
+  },
+  {
+    name: 'Squirtle',
+    type: 'Water',
+    ability: 'Water Gun',
+  },
+];
+
+function getPokemonDetails(filter, callback) {
+  setTimeout(() => {
+    if (pokemons.find(filter) === undefined) {
+      return callback(new Error('Não temos esse pokémon para você :('), null);
+    }
+    const pokemon = pokemons.find(filter);
+
+    const { name, type, ability } = pokemon;
+
+    const messageFromProfOak = `Olá, seu pokémon é o ${name}, o tipo dele é ${type} e a habilidade principal dele é ${ability}`;
+
+    callback(null, messageFromProfOak);
+  }, 2000);
+}
+
+getPokemonDetails();
+
+module.exports = {
+  getPokemonDetails,
+};
+```
+
+9. A fim de evitar que futuros treinadores sejam prejudicados, o Professor Carvalho pediu que você o ajude a escrever testes para o sistema que distribui os pokémons. Crie um novo arquivo `.test.js` ou `.spec.js` e copie o código abaixo. Complete os testes para a função `getPokemonDetails` de acordo com as especificações.
+
+```js
+// Verifique se a importação do arquivo correto está sendo feita.
+const { getPokemonDetails } = require("./get-pokemon-details");
+
+describe("A função getPokemonDetails", () => {
+  it("retorna erro quando procuramos um pokemon que não existe no banco de dados", () => {
+    // Escreva aqui seu código
+  });
+
+  it("retorna um pokemon que existe no banco de dados", () => {
+    // Escreva aqui seu código
+  });
+});
+```
