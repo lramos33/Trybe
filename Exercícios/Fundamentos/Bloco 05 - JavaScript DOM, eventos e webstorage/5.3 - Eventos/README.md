@@ -1,5 +1,6 @@
 ## Calendário Tryber
 Antes de fazer os exercícios, crie um arquivo **_HTML_** na pasta de exercícios e copie o código abaixo:
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -50,6 +51,7 @@ Antes de fazer os exercícios, crie um arquivo **_HTML_** na pasta de exercício
 ```
 
 Crie também um arquivo **_CSS_** e copie o código abaixo para adicionar estilo à página. Fique a vontade para soltar a criatividade e alterar o arquivo como desejar!
+
 ```css
 
 * {
@@ -209,6 +211,7 @@ label {
 ```
 
 Por fim, crie um arquivo **_JavaScript_** com o nome de `"script.js"` e copie o código abaixo:
+
 ```js
 function createDaysOfTheWeek() {
   const weekDays = ['Domingo', 'Segunda', 'Terça', 'Quarta', 'Quinta', 'Sexta', 'Sábado']
@@ -237,6 +240,7 @@ O array `dezDaysList` contém os dois últimos dias de novembro e os dias do mê
   - Os dias devem estar contidos em uma tag `<li>` , e todos devem ter a classe `day`. Ex: `<li class="day">3</li>`
   - Os dias 24, 25 e 31 são feriados e, além da classe `day` , devem conter também a classe `holiday`. Ex: `<li class="day holiday">24</li>`
   - Os dias 4, 11, 18 e 25 são Sexta-feira. Eles devem conter a classe `day` e a classe `friday`. Ex: `<li class="day friday">4</li>`
+
 ```js
 const dezDaysList = [29, 30, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];
 ```
