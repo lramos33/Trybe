@@ -8,18 +8,18 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-##### Bloco 1: Introdução - Unix & Shell
+##### Bloco 1: [Unix & Bash](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/Fundamentos/Bloco%2001%20-%20Unix%20e%20Bash)
 
 - [x] 1-1: _Unix & Shell- Part 1_
 - [x] 1-2: _Unix & Shell- Part 2_
 
-##### Bloco 2: Git & GitHub
+##### Bloco 2: [Git, GitHub e Internet](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/Fundamentos/Bloco%2002%20-%20Git%2C%20GitHub%20e%20Internet)
 
 - [x] 2-1: _Git & GitHub - O que é e para que serve?_
 - [x] 2-2: _Git & GitHub - Entendendo os comandos_
 - [x] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: Introdução - HTML & CSS
+##### Bloco 3: [Introdução à HTML & CSS](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/Fundamentos/Bloco%2003%20-%20HTML%20e%20CSS)
 
 - [x] 3-1: _HTML & CSS - Estruturas de página_
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -27,7 +27,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 3-4: _HTML Semântico_
 - [ ] 3-5: _[Projeto - Lessons Learned]()_
 
-##### Bloco 4: Introdução - JavaScript
+##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/Fundamentos/Bloco%2004:%20JavaScript%20e%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o)
 
 - [x] 4-1: _JavaScript - Primeiros passos_
 - [x] 4-2: _JavaScript - Array e loop For_
@@ -35,7 +35,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 4-4: _JavaScript - Objetos e funções_
 - [ ] 4-5: _[Projeto - Playground Functions]()_
 
-##### Bloco 5: Introdução - JavaScript - Projetos
+##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/Fundamentos/Bloco%2005%20-%20JavaScript%20DOM%2C%20eventos%20e%20webstorage)
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
@@ -47,7 +47,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 5-7: _[(Bônus) Projeto - Adivinhe a Cor]()_
 - [ ] 5-7: _[(Bônus) Projeto - Carta Misteriosa]()_
 
-##### Bloco 6: HTML & CSS avançado
+##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/Fundamentos/Bloco%2006%20-%20HTML%20e%20CSS%20forms%2C%20flexbox%20e%20responsivo)
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -56,14 +56,14 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 6-5: _CSS Responsivo - Mobile First_
 - [ ] 6-6: _[Projeto - Trybewarts]()_
 
-##### Bloco 7: JavaScript ES6 & Testes Unitários
+##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/Fundamentos/Bloco%2007%20-%20Introducao%20ES6%20e%20testes%20unitarios)
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Primeiros passos em Jest_
 - [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
 
-##### Bloco 8: JavaScript ES6
+##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/Fundamentos/Bloco%2008%20-%20High%20Order%20Functions)
 
 - [x] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
@@ -72,7 +72,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [ ] 8-6: _[Projeto - Zoo functions]()_
 
-##### Bloco 9: Assincronicidade & Callbacks
+##### Bloco 9: [JavaScript e Testes Assíncronos](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/Fundamentos/Bloco%2009%20-%20Javascript%20assincrono%20e%20callbacks)
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Promises_
