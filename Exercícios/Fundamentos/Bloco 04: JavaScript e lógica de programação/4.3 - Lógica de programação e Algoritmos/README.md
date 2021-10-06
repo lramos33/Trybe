@@ -39,7 +39,7 @@ n = 5
 
 _Atenção! Note que esse exercício é bem mais complexo que o anterior! Não basta, aqui, imprimir somente asteriscos. Você precisará de uma lógica para imprimir espaços também._
 
-4. Depois, faça uma pirâmide com n asteriscos de base:
+1. Depois, faça uma pirâmide com n asteriscos de base:
 
 ```txt
 n = 5
@@ -51,7 +51,7 @@ n = 5
 
 ## Bônus
 
-5. Faça uma pirâmide com n asteriscos de base que seja vazia no meio. Assuma que o valor de n será sempre ímpar:
+2. Faça uma pirâmide com n asteriscos de base que seja vazia no meio. Assuma que o valor de n será sempre ímpar:
 
 ```txt
 Por último, façamos com que a variável seja incrementada com o valor correspondente a cada loop;
