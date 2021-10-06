@@ -185,7 +185,7 @@ git commit -m "Initial commit"
 ```
 
 - Vá até o seu GitHub e crie um [repositório público](https://docs.github.com/en/get-started/quickstart/create-a-repo), onde você irá guardar todos os exercícios que desenvolverá ao longo do curso;
-  - Dê ao repositório um nome descritivo, como por exemplo `trybe-exercicios` ;
+  - Dê ao repositório um nome descritivo, como por exemplo `trybe-exercicios`;
   - ⚠️ Lembre-se de **não** inicializar o repositório com um arquivo `README.md` , pois você já criou um nos passos anteriores! 😉
 
 - Clique no botão **SSH** e então copie a _URL_ do repositório;
