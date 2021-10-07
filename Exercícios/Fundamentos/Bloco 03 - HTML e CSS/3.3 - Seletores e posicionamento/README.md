@@ -2,7 +2,7 @@
 
 Antes de começar, você deve seguir estas instruções e fazer o setup para o exercício de hoje:
 
-1. Entre no diretório que você criou no dia anterior;
+1. Entre no diretório que você criou no [dia anterior](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/Fundamentos/Bloco%2003%20-%20HTML%20e%20CSS/3.1%20-%20Estruturas%20de%20p%C3%A1gina);
 2. Procure a tag `<style></style>` , onde você fez as alterações ontem. Mova todo o conteúdo da tag `style` e coloque em um arquivo `style.css` ;
 3. Adicione as novas alterações dentro do arquivo `style.css` ;
 4. Não se esqueça de importar esse arquivo na sua página;

@@ -2,7 +2,7 @@
 
 Antes de começar, você deve seguir as instruções abaixo e fazer o setup para o exercício de hoje:
 
-1. Entre no diretório que você criou no dia anterior;
+1. Entre no diretório que você criou no [dia anterior](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/Fundamentos/Bloco%2003%20-%20HTML%20e%20CSS/3.1%20-%20Estruturas%20de%20p%C3%A1gina);
 2. Adicione a tag `<style></style>` , que é onde você vai colocar suas alterações;
 3. Procure uma paleta de cores com a qual você mais se identifique e que você pode gerar [nesse site](https://coolors.co/) .
 4. Lembre-se que, para executar o seu código enquanto o desenvolve, você deve utilizar a extensão `Live Server` .
