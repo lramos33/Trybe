@@ -1,0 +1,15 @@
+{
+  "name": "7.3---primeiros-passos-em-jest",
+  "version": "1.0.0",
+  "description": "Você vai implementar vários testes em contextos diferentes a fim de consolidar a mecânica e também a forma de pensar em testes.",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}
