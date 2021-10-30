@@ -1,6 +1,6 @@
 ## Agora, a prática:
 
-Siga as instruções no Repositório para fazer uma API que recupera e filtra fotos (no caso, de cachorros) em React!
+Siga as instruções para fazer uma API que recupera e filtra fotos (no caso, de cachorros) em React!
 
 #### Exercício 1
 
