@@ -7,8 +7,6 @@ Implemente os testes:
 - Botão precisa conter o texto "Adicionar".
 - Ao ser clicado a tarefa digitada pelo o usuário precisa ser salva.
 
-Pode adicionar mais testes que achar relevantes para verificar a funcionalidade desse botão.
-
 #### Exercício 2
 
 Teste a aplicação. Atenção ao que o teste orienta:
