@@ -30,9 +30,9 @@ class InputTodo extends Component {
           id="inputTodo"
           type="text"
           value={textTodo}
-          onChange={(e) => this.changeTextTodo(e.target.value)}
+          onChange={ (e) => this.changeTextTodo(e.target.value) }
         />
-        <input id="btnAdd" type="button" value="Adicionar" onClick={() => this.addItem(textTodo,addTodo)} />
+        <input id="btnAdd" type="button" value="Adicionar" onClick={ () => this.addItem(textTodo,addTodo) } />
       </div>
     );
   }
