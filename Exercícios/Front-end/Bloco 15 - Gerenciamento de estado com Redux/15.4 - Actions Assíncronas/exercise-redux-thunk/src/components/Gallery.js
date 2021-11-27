@@ -28,4 +28,4 @@ const mapStateToProps = (state) => ({
   useDefaultImg: state.gallery.defaultImg,
 });
 
-export default connect(mapStateToProps)(Gallery);
+export default connect(mapStateToProps, null)(Gallery);
