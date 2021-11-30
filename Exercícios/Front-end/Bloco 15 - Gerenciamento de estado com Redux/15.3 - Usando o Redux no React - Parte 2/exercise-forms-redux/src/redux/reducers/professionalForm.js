@@ -1,5 +1,7 @@
 const INITIAL_STATE = {
-  name: '',
+  curriculo: '',
+  cargo: '',
+  descricao: '',
 };
 
 const professionalForm = (state = INITIAL_STATE, action) => {
@@ -7,7 +9,9 @@ const professionalForm = (state = INITIAL_STATE, action) => {
   case 'PROFESSIONAL_FORM':
     return {
       ...state,
-      name: action.value,
+      curriculo: action.state.curriculo,
+      cargo: action.state.cargo,
+      descricao: action.state.descricao,
     };
   default:
     return state;

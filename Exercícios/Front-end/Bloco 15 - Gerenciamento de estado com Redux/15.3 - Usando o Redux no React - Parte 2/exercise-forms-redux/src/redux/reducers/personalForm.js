@@ -1,10 +1,10 @@
 const INITIAL_STATE = {
-  name: '',
+  nome: '',
   email: '',
   cpf: '',
-  address: '',
-  city: '',
-  state: '',
+  endereco: '',
+  cidade: '',
+  estado: '',
 };
 
 const personalForm = (state = INITIAL_STATE, action) => {
@@ -12,7 +12,12 @@ const personalForm = (state = INITIAL_STATE, action) => {
   case 'PERSONAL_FORM':
     return {
       ...state,
-      name: action.value,
+      nome: action.state.nome,
+      email: action.state.email,
+      cpf: action.state.cpf,
+      endereco: action.state.endereco,
+      cidade: action.state.cidade,
+      estado: action.state.estado,
     };
   default:
     return state;
