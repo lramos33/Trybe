@@ -35,7 +35,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 4-4: _JavaScript - Objetos e funções_
 - [ ] 4-5: _[Projeto - Playground Functions]()_
 
-##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2005%20-%20JavaScript%20DOM%2C%20eventos%20e%20webstorage)
+##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2005%20-%20JavaScript%20DOM%2C%20eventos%20e%20web%20storage)
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
