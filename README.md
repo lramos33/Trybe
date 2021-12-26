@@ -43,9 +43,6 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 5-4: _JavaScript - Web Storage_
 - [ ] 5-5: _[Projeto - Pixels Art]()_
 - [ ] 5-6: _[Projeto - To Do List]()_
-- [ ] 5-7: _[(Bônus) Projeto - Meme Generator]()_
-- [ ] 5-7: _[(Bônus) Projeto - Adivinhe a Cor]()_
-- [ ] 5-7: _[(Bônus) Projeto - Carta Misteriosa]()_
 
 ##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2006%20-%20HTML%20e%20CSS%20forms%2C%20flexbox%20e%20responsivo)
 
@@ -61,7 +58,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Primeiros passos em Jest_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [ ] 7-4: _[Projeto - JavaScript Unit Tests]()_
 
 ##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2008%20-%20High%20Order%20Functions)
 
@@ -77,8 +74,8 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Promises_
 - [x] 9-3: _Jest - Testes Assíncronos_
-- [ ] 9-4: _[Projeto - Carrinho de Compras]()_
-- [ ] 9-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [ ] 9-4: _[Projeto - Shopping Cart]()_
+- [ ] 9-5: _[Projeto - Asynchronous Jest and Mocking]()_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -128,8 +125,8 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 ##### Bloco 17: [Context API e React Hooks](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2017%20-%20Context%20API%20e%20React%20Hooks)
 
 - [x] 17-1: _Context API do React_
-- [ ] 17-2: _React Hooks - useState e useContext_
-- [ ] 17-3: _React Hooks - useEffect e Hooks customizados_
+- [x] 17-2: _React Hooks - useState e useContext_
+- [x] 17-3: _React Hooks - useEffect e Hooks customizados_
 - [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
 ##### Bloco 19: Projeto App de Receitas
