@@ -77,7 +77,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 9-4: _[Projeto - Shopping Cart]()_
 - [ ] 9-5: _[Projeto - Asynchronous Jest and Mocking]()_
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+## Desenvolvimento Front-end :heavy_check_mark:
 
 ##### Bloco 10: [Introdução à React](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2010%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20React)
 
