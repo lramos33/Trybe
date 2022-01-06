@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leonardo Ramos de Oliveira](https://www.linkedin.com/in/lramo33)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todos os projetos e exercícios desenvolvidos por _[Leonardo Ramos de Oliveira](https://www.linkedin.com/in/lramo33)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia."_
 
@@ -83,31 +83,31 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 - [x] 10-1: _'Hello, world!' no React!_
 - [x] 10-2: _Componentes React_
-- [ ] 10-3: _[Projeto - Movie Cards Library]()_
+- [x] 10-3: _[Project - Movie Cards Library](https://github.com/lramos33/project-movie-cards-library)_
 
 ##### Bloco 11: [Componentes com Estado, Eventos e Formulários com React](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2011%20-%20Componentes%20com%20Estado%2C%20Eventos%20e%20Formul%C3%A1rios%20com%20React)
 
 - [x] 11-1: _Components com estado e eventos_
 - [x] 11-2: _Formulários no React_
-- [ ] 11-3: _[Projeto - Tryunfo]()_
+- [x] 11-3: _[Project - Tryunfo](https://github.com/lramos33/project-tryunfo)_
 
 ##### Bloco 12: [Ciclo de Vida de Componentes e React Router](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2012%20-%20Ciclo%20de%20vida%20de%20componentes%20e%20React%20Router)
 
 - [x] 12-1: _Ciclo de vida de componentes_
 - [x] 12-2: _React Router_
-- [ ] 12-3: _[Projeto - TrybeTunes]()_
+- [x] 12-3: _[Project - TrybeTunes](https://github.com/lramos33/project-trybetunes)_
 
 ##### Bloco 13: Metodologias Ágeis
 
 - [x] 13-1: _Metodologias Ágeis_
-- [ ] 13-2: _[Projeto - Frontend Online Store]()_
+- [x] 13-2: _[Project - Frontend Online Store](https://github.com/lramos33/project-frontend-online-store)_
 
 ##### Bloco 14: [Testes automatizados com React Testing Library](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2014%20%20-%20Testes%20automatizados%20com%20React%20Testing%20Library)
 
 - [x] 14-1: _RTL - Primeiros passos_
 - [x] 14-2: _RTL - Mocks e Inputs_
 - [x] 14-3: _RTL - Testando React Router_
-- [ ] 14-4: _[Projeto - Testes em React]()_
+- [x] 14-4: _[Project - React Tests](https://github.com/lramos33/project-react-tests)_
 
 ##### Bloco 15: [Gerenciamento de estado com Redux](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2015%20-%20Gerenciamento%20de%20estado%20com%20Redux)
 
@@ -116,22 +116,22 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 15-3: _Usando o Redux no React - Prática_
 - [x] 15-4: _Usando o Redux no React - Actions Assíncronas_
 - [x] 15-5: _Testes em React-Redux_
-- [ ] 15-6: _[Projeto - Trybe Wallet]()_
+- [x] 15-6: _[Project - Trybe Wallet](https://github.com/lramos33/project-trybe-wallet)_
 
 ##### Bloco 16: Projeto Jogo de Trivia
 
-- [ ] 16-1: _[Projeto - Jogo de Trivia]()_
+- [x] 16-1: _[Project - Trivia Game](https://github.com/lramos33/project-trivia-game)_
 
 ##### Bloco 17: [Context API e React Hooks](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2017%20-%20Context%20API%20e%20React%20Hooks)
 
 - [x] 17-1: _Context API do React_
 - [x] 17-2: _React Hooks - useState e useContext_
 - [x] 17-3: _React Hooks - useEffect e Hooks customizados_
-- [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 17-4: _[Project - StarWars Datatable](https://github.com/lramos33/project-starwars-datatable)_
 
 ##### Bloco 18: Projeto App de Receitas
 
-- [ ] 18-1: _[Projeto - App de Receitas]()_
+- [ ] 18-1: _[Project - Recipe App]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
@@ -142,6 +142,8 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [ ] 19-3: _Orquestrando Containers com Docker Compose_
 - [ ] 19-5: _[Project - Docker To Do List]()_
 
+## [...]
+
 ## Ciência da Computação :hourglass_flowing_sand:
 
-# [...]
+## [...]
