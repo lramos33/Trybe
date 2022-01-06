@@ -10,7 +10,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 ##### Bloco 1: [Unix & Bash](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2001%20-%20Unix%20e%20Bash)
 
-- [x] **1-1:** _Unix & Shell- Part 1_
+- [x] 1-1: _Unix & Shell- Part 1_
 - [x] 1-2: _Unix & Shell- Part 2_
 
 ##### Bloco 2: [Git, GitHub e Internet](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2002%20-%20Git%2C%20GitHub%20e%20Internet)
