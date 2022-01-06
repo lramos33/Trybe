@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leonardo Ramos de Oliveira](LinkDoSeuLinkedinAqui)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leonardo Ramos de Oliveira](https://www.linkedin.com/in/lramo33)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia."_
 
@@ -25,7 +25,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [ ] 3-5: _[Projeto - Lessons Learned]()_
+- [x] 3-5: _[Project - Lessons Learned](https://github.com/lramos33/project-lessons-learned)_
 
 ##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2004:%20JavaScript%20e%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o)
 
@@ -33,7 +33,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _JavaScript - Objetos e funções_
-- [ ] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-5: _[Project - Playground Functions](https://github.com/lramos33/project-playground-functions)_
 
 ##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2005%20-%20JavaScript%20DOM%2C%20eventos%20e%20web%20storage)
 
@@ -41,8 +41,8 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
 - [x] 5-3: _JavaScript - Eventos_
 - [x] 5-4: _JavaScript - Web Storage_
-- [ ] 5-5: _[Projeto - Pixels Art]()_
-- [ ] 5-6: _[Projeto - To Do List]()_
+- [x] 5-5: _[Project - Pixels Art](https://github.com/lramos33/project-pixels-art)_
+- [x] 5-6: _[Project - To Do List](https://github.com/lramos33/project-to-do-list)_
 
 ##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2006%20-%20HTML%20e%20CSS%20forms%2C%20flexbox%20e%20responsivo)
 
@@ -51,14 +51,14 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 6-3: _CSS Flexbox - Part 1_
 - [x] 6-4: _CSS Flexbox - Part 2_
 - [x] 6-5: _CSS Responsivo - Mobile First_
-- [ ] 6-6: _[Projeto - Trybewarts]()_
+- [x] 6-6: _[Project - Trybewarts](https://github.com/lramos33/project-trybewarts)_
 
 ##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2007%20-%20Introducao%20ES6%20e%20testes%20unitarios)
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Primeiros passos em Jest_
-- [ ] 7-4: _[Projeto - JavaScript Unit Tests]()_
+- [x] 7-4: _[Project - JavaScript Unit Tests](https://github.com/lramos33/project-javascript-unit-tests)_
 
 ##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2008%20-%20High%20Order%20Functions)
 
@@ -67,15 +67,15 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 8-3: _JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-4: _JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-6: _[Projeto - Zoo functions]()_
+- [x] 8-6: _[Project - Zoo functions](https://github.com/lramos33/project-zoo-functions)_
 
 ##### Bloco 9: [JavaScript e Testes Assíncronos](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2009%20-%20Javascript%20assincrono%20e%20callbacks)
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Promises_
 - [x] 9-3: _Jest - Testes Assíncronos_
-- [ ] 9-4: _[Projeto - Shopping Cart]()_
-- [ ] 9-5: _[Projeto - Asynchronous Jest and Mocking]()_
+- [x] 9-4: _[Project - Shopping Cart](https://github.com/lramos33/project-shopping-cart)_
+- [x] 9-5: _[Project - Asynchronous Jest and Mocking](https://github.com/lramos33/project-asynchronous-jest-and-mocking)_
 
 ## Desenvolvimento Front-end :heavy_check_mark:
 
@@ -129,121 +129,19 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 17-3: _React Hooks - useEffect e Hooks customizados_
 - [ ] 17-4: _[Projeto - StarWars Datatable com Context API e Hooks]()_
 
-##### Bloco 19: Projeto App de Receitas
+##### Bloco 18: Projeto App de Receitas
 
-- [ ] 19-1: _[Projeto - App de Receitas]()_
+- [ ] 18-1: _[Projeto - App de Receitas]()_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
-##### Bloco 20: Introdução - Bancos de dados relacionais
+##### Bloco 19: [Docker: Utilizando Containers]()
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Projeto - All For One]()_
-
-##### Bloco 21: Bancos de dados relacionais
-
-- [ ] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs e UNIONs_
-- [ ] 21-3: _Stored Routines & Subqueries_
-- [ ] 21-4: _[Projeto - Vocabulary Booster]()_
-
-##### Bloco 22: Bancos de dados relacionais
-
-- [ ] 22-1: _Transformando ideias em um modelo de banco de dados_
-- [ ] 22-2: _Normalização, Formas Normais e Dumps_
-- [ ] 22-2: _Transformando ideias em um modelo de banco de dados - Parte 2_
-- [ ] 22-3: _[Projeto - One For All]()_
-
-##### Bloco 23: Introdução - NoSQL
-
-- [ ] 23-1: _MongoDB - Introdução_
-- [ ] 23-2: _Filter Operators_
-- [ ] 23-3: _[Projeto - Data Flights]()_
-
-##### Bloco 24: Updates
-
-- [ ] 24-1: _Updates Simples_
-- [ ] 24-2: _Updates Complexos - Arrays - Parte 1_
-- [ ] 24-3: _Updates Complexos - Arrays - Parte 2_
-- [ ] 24-4: _[Projeto - Commerce]()_
-
-##### Bloco 25: Aggregation Framework
-
-- [ ] 25-1: _Aggregation Framework - Part 1_
-- [ ] 25-2: _Aggregation Framework - Part 2_
-- [ ] 25-3: _[Projeto - Aggregations]()_
-
-##### Bloco 26: Intro - NodeJS
-
-- [ ] 26-1: _NodeJS - Introdução_
-- [ ] 26-2: _NodeJS - Fluxo Assíncrono_
-- [ ] 26-3: _NodeJS - Arquitetura_
-- [ ] 26-4: _[Projeto - A CLI of Ice and Fire]()_
-
-##### Bloco 27: NodeJS
-
-- [ ] 27-1: _Express: HTTP com Node.js_
-- [ ] 27-2: _Arquitetura de Software - Introdução ao MVC_
-- [ ] 27-3: _[Projeto - Cookmaster]()_
-
-##### Bloco 28: NodeJS
-
-- [ ] 28-1: _Arquitetura de Software - Camada de Serviço_
-- [ ] 28-2: _Arquitetura web - Rest e Restful_
-- [ ] 28-3: _[Projeto - Store Manager]()_
-
-##### Bloco 29: NodeJS
-
-- [ ] 29-1: _NodeJS - JWT - (JSON Web Token)_
-- [ ] 29-2: _NodeJS - Upload de arquivos com Multer_
-- [ ] 29-3: _[Projeto - Cookmaster V2]()_
-
-##### Bloco 30: Introdução - Deploy
-
-- [ ] 30-1: _Infraestrutura - Deploy com Heroku_
-- [ ] 30-2: _Deploy - Gerenciadores de Processos_
-- [ ] 30-3: _[Projeto - Stranger Things]()_
-
-##### Bloco 31: Projeto
-
-- [ ] 31-1: _[Projeto - Trybeer]()_
-
-##### Bloco 32: Arquitetura de Software
-
-- [ ] 32-1: _Arquitetura - Princípios SOLID_
-- [ ] 32-2: _ORM - Interface da aplicação com o banco de dados_
-- [ ] 32-3: _Arquitetura de Software - DDD_
-- [ ] 32-4: _Boas práticas na escrita de testes_
-- [ ] 32-3: _[Projeto - API de Blogs]()_
-
-##### Bloco 33: Sockets
-
-- [ ] 30-1: _Sockets - TCP/UDP & NET_
-- [ ] 30-2: _Sockets - Socket.io_
-- [ ] 30-3: _[Projeto - Webchat]()_
-
-##### Bloco 34: Projeto
-
-- [ ] 34-1: _[Projeto - Trybeer V2]()_
+- [ ] 19-1: _Utilizando Containers - Docker_
+- [ ] 19-2: _Manipulação e criação de imagens no Docker_
+- [ ] 19-3: _Orquestrando Containers com Docker Compose_
+- [ ] 19-5: _[Project - Docker To Do List]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
-
-##### Bloco 35: Introdução - Ciência da Computação
-
-- [ ] 35-1: _Arquitetura de Computadores_
-- [ ] 35-2: _Arquitetura de redes_
-- [ ] 35-3: _Redes de computadores, ferramentas e segurança_
-- [ ] 35-4: _[Projeto - Explorando os protocolos]()_
-
-##### Bloco 36: Python
-
-- [ ] 35-1: _Aprendendo Python_
-- [ ] 35-2: _Testes e Exceções_
-- [ ] 35-3: _Entrada e Saída de dados_
-- [ ] 36-4: _Entrada e Saída de dados_
-- [ ] 35-5: _[Projeto - Tech news]()_
 
 # [...]
