@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todos os projetos e exercícios desenvolvidos por _[Leonardo Ramos de Oliveira](https://www.linkedin.com/in/lramo33)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todos os projetos e exercícios desenvolvidos por _[Leonardo Ramos de Oliveira](https://www.linkedin.com/in/lramos33)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia."_
 
@@ -8,18 +8,18 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 ## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
-##### Bloco 1: [Unix & Bash](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2001%20-%20Unix%20e%20Bash)
+##### Bloco 1: [Unix & Bash]()
 
 - [x] 1-1: _Unix & Shell- Part 1_
 - [x] 1-2: _Unix & Shell- Part 2_
 
-##### Bloco 2: [Git, GitHub e Internet](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2002%20-%20Git%2C%20GitHub%20e%20Internet)
+##### Bloco 2: [Git, GitHub e Internet]()
 
 - [x] 2-1: _Git & GitHub - O que é e para que serve?_
 - [x] 2-2: _Git & GitHub - Entendendo os comandos_
 - [x] 2-3: _Internet - Entendendo como ela funciona_
 
-##### Bloco 3: [Introdução à HTML & CSS](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2003%20-%20HTML%20e%20CSS)
+##### Bloco 3: [Introdução à HTML & CSS]()
 
 - [x] 3-1: _HTML & CSS - Estruturas de página_
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
@@ -27,7 +27,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 3-4: _HTML Semântico_
 - [x] 3-5: _[Project - Lessons Learned](https://github.com/lramos33/project-lessons-learned)_
 
-##### Bloco 4: [Introdução à JavaScript e Lógica de Programação](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2004:%20JavaScript%20e%20l%C3%B3gica%20de%20programa%C3%A7%C3%A3o)
+##### Bloco 4: [Introdução à JavaScript e Lógica de Programação]()
 
 - [x] 4-1: _JavaScript - Primeiros passos_
 - [x] 4-2: _JavaScript - Array e loop For_
@@ -35,7 +35,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 4-4: _JavaScript - Objetos e funções_
 - [x] 4-5: _[Project - Playground Functions](https://github.com/lramos33/project-playground-functions)_
 
-##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2005%20-%20JavaScript%20DOM%2C%20eventos%20e%20web%20storage)
+##### Bloco 5: [JavaScript: DOM, Eventos e Web Storage]()
 
 - [x] 5-1: _JavaScript - DOM e seletores_
 - [x] 5-2: _JavaScript - Trabalhando com elementos_
@@ -44,7 +44,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 5-5: _[Project - Pixels Art](https://github.com/lramos33/project-pixels-art)_
 - [x] 5-6: _[Project - To Do List](https://github.com/lramos33/project-to-do-list)_
 
-##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2006%20-%20HTML%20e%20CSS%20forms%2C%20flexbox%20e%20responsivo)
+##### Bloco 6: [HTML e CSS: Forms, Flexbox e Responsivo]()
 
 - [x] 6-1: _HTML & CSS - Forms_
 - [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS_
@@ -53,14 +53,14 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 6-5: _CSS Responsivo - Mobile First_
 - [x] 6-6: _[Project - Trybewarts](https://github.com/lramos33/project-trybewarts)_
 
-##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2007%20-%20Introducao%20ES6%20e%20testes%20unitarios)
+##### Bloco 7: [Introdução à JavaScript ES6 e Testes Unitários]()
 
 - [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _JavaScript ES6 - Objects_
 - [x] 7-3: _Primeiros passos em Jest_
 - [x] 7-4: _[Project - JavaScript Unit Tests](https://github.com/lramos33/project-javascript-unit-tests)_
 
-##### Bloco 8: [Higher Order Functions do JavaScript ES6](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2008%20-%20High%20Order%20Functions)
+##### Bloco 8: [Higher Order Functions do JavaScript ES6]()
 
 - [x] 8-1: _JavaScript ES6 - Introdução a Higher Order Functions_
 - [x] 8-2: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
@@ -69,7 +69,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 8-5: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
 - [x] 8-6: _[Project - Zoo functions](https://github.com/lramos33/project-zoo-functions)_
 
-##### Bloco 9: [JavaScript e Testes Assíncronos](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/01%20-%20Fundamentos/Bloco%2009%20-%20Javascript%20assincrono%20e%20callbacks)
+##### Bloco 9: [JavaScript e Testes Assíncronos]()
 
 - [x] 9-1: _JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _JavaScript Promises_
@@ -79,19 +79,19 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 ## Desenvolvimento Front-end :heavy_check_mark:
 
-##### Bloco 10: [Introdução à React](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2010%20-%20Introdu%C3%A7%C3%A3o%20%C3%A0%20React)
+##### Bloco 10: [Introdução à React]()
 
 - [x] 10-1: _'Hello, world!' no React!_
 - [x] 10-2: _Componentes React_
 - [x] 10-3: _[Project - Movie Cards Library](https://github.com/lramos33/project-movie-cards-library)_
 
-##### Bloco 11: [Componentes com Estado, Eventos e Formulários com React](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2011%20-%20Componentes%20com%20Estado%2C%20Eventos%20e%20Formul%C3%A1rios%20com%20React)
+##### Bloco 11: [Componentes com Estado, Eventos e Formulários com React]()
 
 - [x] 11-1: _Components com estado e eventos_
 - [x] 11-2: _Formulários no React_
 - [x] 11-3: _[Project - Tryunfo](https://github.com/lramos33/project-tryunfo)_
 
-##### Bloco 12: [Ciclo de Vida de Componentes e React Router](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2012%20-%20Ciclo%20de%20vida%20de%20componentes%20e%20React%20Router)
+##### Bloco 12: [Ciclo de Vida de Componentes e React Router]()
 
 - [x] 12-1: _Ciclo de vida de componentes_
 - [x] 12-2: _React Router_
@@ -102,14 +102,14 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 13-1: _Metodologias Ágeis_
 - [x] 13-2: _[Project - Frontend Online Store](https://github.com/lramos33/project-frontend-online-store)_
 
-##### Bloco 14: [Testes automatizados com React Testing Library](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2014%20%20-%20Testes%20automatizados%20com%20React%20Testing%20Library)
+##### Bloco 14: [Testes automatizados com React Testing Library]()
 
 - [x] 14-1: _RTL - Primeiros passos_
 - [x] 14-2: _RTL - Mocks e Inputs_
 - [x] 14-3: _RTL - Testando React Router_
 - [x] 14-4: _[Project - React Tests](https://github.com/lramos33/project-react-tests)_
 
-##### Bloco 15: [Gerenciamento de estado com Redux](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2015%20-%20Gerenciamento%20de%20estado%20com%20Redux)
+##### Bloco 15: [Gerenciamento de estado com Redux]()
 
 - [x] 15-1: _Introdução ao Redux - O estado global da aplicação_
 - [x] 15-2: _Usando o Redux no React_
@@ -122,7 +122,7 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 - [x] 16-1: _[Project - Trivia Game](https://github.com/lramos33/project-trivia-game)_
 
-##### Bloco 17: [Context API e React Hooks](https://github.com/lramos33/Trybe/tree/master/Exerc%C3%ADcios/02%20-%20Front-end/Bloco%2017%20-%20Context%20API%20e%20React%20Hooks)
+##### Bloco 17: [Context API e React Hooks]()
 
 - [x] 17-1: _Context API do React_
 - [x] 17-2: _React Hooks - useState e useContext_
@@ -144,11 +144,11 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 ##### Bloco 20: [Introdução à SQL]()
 
-- [ ] 20-1: _Banco de dados SQL_
-- [ ] 20-2: _Encontrando dados em um banco de dados_
-- [ ] 20-3: _Filtrando dados de forma específica_
-- [ ] 20-4: _Manipulando tabelas_
-- [ ] 20-5: _[Project - All For One]()_
+- [x] 20-1: _Banco de dados SQL_
+- [x] 20-2: _Encontrando dados em um banco de dados_
+- [x] 20-3: _Filtrando dados de forma específica_
+- [x] 20-4: _Manipulando tabelas_
+- [ ] 20-5: _[Project - My SQL All For One]()_
 
 ##### Bloco 21: [Funções SQL, JOINs e Normalização]()
 
@@ -162,6 +162,10 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 ## Ciência da Computação :hourglass_flowing_sand:
 
 ## [...]
+
+---
+
+Made with ♥ by Leonardo Ramos 👋 [Get in touch!](https://www.linkedin.com/in/lramos33/)
 
 <!-- ##### Bloco XX: []()
 
