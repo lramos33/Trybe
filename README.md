@@ -1,6 +1,6 @@
 # Trybe
 
-Este repositório contém todos os projetos e exercícios desenvolvidos por _[Leonardo Ramos de Oliveira](https://www.linkedin.com/in/lramos33)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todos os projetos e exercícios desenvolvidos por mim, [Leonardo Ramos de Oliveira](https://www.linkedin.com/in/lramos33), enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia."_
 
@@ -148,14 +148,39 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 20-2: _Encontrando dados em um banco de dados_
 - [x] 20-3: _Filtrando dados de forma específica_
 - [x] 20-4: _Manipulando tabelas_
-- [x] 20-5: _[Project - My SQL All For One](https://github.com/lramos33/trybe-exercises/tree/master/03%20-%20Back-end/Bloco%2021%20-%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o)_
+- [x] 20-5: _[Project - My SQL All For One]()_
 
-##### Bloco 21: [Funções SQL, JOINs e Normalização]()
+##### Bloco 21: [Funções SQL, JOINs e Normalização](https://github.com/lramos33/trybe-exercises/tree/master/03%20-%20Back-end/Bloco%2021%20-%20Fun%C3%A7%C3%B5es%20SQL%2C%20JOINs%20e%20Normaliza%C3%A7%C3%A3o)
 
 - [x] 21-1: _Funções mais usadas no SQL_
-- [ ] 21-2: _Descomplicando JOINs_
-- [ ] 21-3: _Transformando ideias em um modelo de banco de dados_
-- [ ] 21-4: _[Project - One For All]()_
+- [x] 21-2: _Descomplicando JOINs_
+- [x] 21-3: _Transformando ideias em um modelo de banco de dados_
+- [x] 21-4: _[Project - One For All]()_
+
+##### Bloco 22: [Introdução ao desenvolvimento Web com Node.js]()
+
+- [x] 22-1: _Node.js - Um motor JavaScript_
+- [x] 22-2: _Node.js - Fluxo Assíncrono_
+- [x] 22-3: _Mocha, Chai e Sinon - Testes de Back-end com Node.js_
+- [x] 22-4: _Express - HTTP com Node.js_
+- [x] 22-5: _Express - Middlewares_
+- [x] 22-6: _[Project - Talker Manager]()_
+
+##### Bloco 23: [Node.js: Camada de Serviço e Arquitetura Rest e Restful]()
+
+- [x] 23-1: _Arquitetura de Software - Camada de Model_
+- [x] 23-2: _Arquitetura de Software - Camada de Controller e Service_
+- [ ] 23-3: _Arquitetura Web - Rest e Restful_
+- [ ] 23-4: _Arquitetura de Software - Testando as camadas_
+- [ ] 23-5: _[Project - Store Manager]()_
+
+##### Bloco 24: [Node.js: ORM e Autenticação]()
+
+- [ ] 24-1: _ORM - Interface da aplicação com banco de dados_
+- [ ] 24-2: _ORM - Associations_
+- [ ] 24-3: _JWT - JSON Web Token_
+- [ ] 24-4: _Testando APIs com Testes de integração_
+- [ ] 24-5: _[Project - Blogs API]()_
 
 ## [...]
 
