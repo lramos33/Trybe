@@ -170,17 +170,17 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 - [x] 23-1: _Arquitetura de Software - Camada de Model_
 - [x] 23-2: _Arquitetura de Software - Camada de Controller e Service_
-- [ ] 23-3: _Arquitetura Web - Rest e Restful_
-- [ ] 23-4: _Arquitetura de Software - Testando as camadas_
-- [ ] 23-5: _[Project - Store Manager]()_
+- [x] 23-3: _Arquitetura Web - Rest e Restful_
+- [x] 23-4: _Arquitetura de Software - Testando as camadas_
+- [x] 23-5: _[Project - Store Manager]()_
 
 ##### Bloco 24: [Node.js: ORM e Autenticação]()
 
-- [ ] 24-1: _ORM - Interface da aplicação com banco de dados_
-- [ ] 24-2: _ORM - Associations_
-- [ ] 24-3: _JWT - JSON Web Token_
-- [ ] 24-4: _Testando APIs com Testes de integração_
-- [ ] 24-5: _[Project - Blogs API]()_
+- [x] 24-1: _ORM - Interface da aplicação com banco de dados_
+- [x] 24-2: _ORM - Associations_
+- [x] 24-3: _JWT - JSON Web Token_
+- [x] 24-4: _Testando APIs com Testes de integração_
+- [x] 24-5: _[Project - Blogs API]()_
 
 ## [...]
 
