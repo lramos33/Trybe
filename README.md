@@ -182,6 +182,32 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 - [x] 24-4: _Testando APIs com Testes de integração_
 - [x] 24-5: _[Project - Blogs API]()_
 
+##### Bloco 25: [Deployment]()
+
+- [x] 25-1: _Infraestrutura - Deploy com Heroku_
+- [x] 25-2: _Deploy Docker e Heroku_
+- [x] 25-3: _[Project - Stranger Things]()_
+
+##### Bloco 26: [TypeScript]()
+
+- [x] 26-1: _Introdução ao TypeScript_
+- [ ] 26-2: _Tipagem Estática e Generics_
+- [ ] 26-3: _Express com TypeScript_
+- [ ] 26-4: _[Project - Trybe Smith]()_
+
+##### Bloco 27: [Programação Orientada a Objetos (POO) e SOLID]()
+
+- [ ] 27-1: _Introdução à Orientação a Objetos_
+- [ ] 27-2: _Herança e Interfaces_
+- [ ] 27-3: _Polimorfismo_
+- [ ] 27-4: _SOLID - Introdução e Princípios S, O e D_
+- [ ] 27-5: _Princípios L e I_
+- [ ] 27-6: _[Project - Trybers and Dragons]()_
+
+##### Bloco 28: Projeto Trybe Futebol Clube
+
+- [ ] 28-1: _[Project - Trybe Soccer Club]()_
+
 ## [...]
 
 ## Ciência da Computação :hourglass_flowing_sand:
