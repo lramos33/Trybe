@@ -2,7 +2,7 @@
 
 📚 This was my study repo while I was studying at [Trybe](https://www.betrybe.com/)
 
-Trybe is a school of the future for anyone who wants to improve their life and build a successful career in technology. The program offers more than 1,500 hours of online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, behavioral skills, and soft skills..
+Trybe is a school of the future for anyone who wants to improve their life and build a successful career in technology. The program offers more than 1,500 hours of online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, behavioral skills, and soft skills.
 
 ## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
