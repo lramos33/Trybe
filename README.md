@@ -1,10 +1,8 @@
 # Trybe
 
-Este repositório contém todos os projetos e exercícios desenvolvidos por mim, [Leonardo Ramos de Oliveira](https://www.linkedin.com/in/lramos33), enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+📚 This was my study repo while I was studying at [Trybe](https://www.betrybe.com/)
 
-_"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia."_
-
-O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis, habilidades comportamentais e soft skills.
+Trybe is a school of the future for anyone who wants to improve their life and build a successful career in technology. The program offers more than 1,500 hours of online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, behavioral skills, and soft skills..
 
 ## Fundamentos do Desenvolvimento Web :heavy_check_mark:
 
